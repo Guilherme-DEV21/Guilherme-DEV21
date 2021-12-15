@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guilherme Alves estudante de Front-End.
+### Olá! Eu sou o Guilherme Alves, estudante de Front-End.
 
 - 🔭 Hoje trabalho com redes e serviços helpdesk
 - 🌱Atualmente estou aprendendo javascript
